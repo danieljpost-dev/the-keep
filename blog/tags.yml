@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+progress-report:
+  label: Progress Report
+  permalink: /progress-report
+  description: Progress Report tag description
