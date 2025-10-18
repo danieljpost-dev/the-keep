@@ -6,3 +6,4 @@ tags: [progress-report]
 ---
 
 OK I've made another blog post!
+<!-- truncate -->

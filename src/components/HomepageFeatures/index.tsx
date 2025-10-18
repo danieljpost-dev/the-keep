@@ -11,32 +11,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy on the Eyes',
+    title: 'Find and attend public conventions',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Daniel J. Post was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We want a toolset that convention hosts can use to run RPG conventions that can eliminate the pains of registration and schedule management
       </>
     ),
   },
   {
-    title: 'Focus on What Mutters',
+    title: 'Connect with players',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We want a way to for people to connect at conventions. The little blocks of time at the table can be magical, exciting adventures you build with people you just met.
       </>
     ),
   },
   {
-    title: 'Powered by Your Mom',
+    title: 'Mange your Home Table',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The Keyholders are six adults – between us we own several businesses, have a gaggle of children, full time jobs, volunteer responsibilities and one of us plays in a rock band. Point is, we have a lot going on and our calendars are a mess. We would love to play every Thursday, but it just doesn&apos;t work. So we send emails, arties manage their home games too? Your home game is basically a private event so it makes some sense. We think putting all your gaming stuff in one place could be pretty useful.
       </>
     ),
   },
